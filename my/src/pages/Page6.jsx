@@ -1,8 +1,10 @@
 import { useGSAP } from "@gsap/react";
-import gsap from "gsap";
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
+import { gsap } from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 
+gsap.registerPlugin(ScrollTrigger);
 function Page6() {
   useGSAP(() => {
     gsap.to("#moon", {

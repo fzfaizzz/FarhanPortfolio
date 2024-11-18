@@ -23,7 +23,7 @@ function HireMe() {
         }
       );
 
-    e.target.reset(); // Reset the form after submission
+    e.target.reset(); 
   };
 
   return (
