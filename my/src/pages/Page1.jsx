@@ -43,7 +43,7 @@ function Page1() {
   >
     <div
       id="page1-in"
-      className="h-full relative p-6 md:p-10 shadow-md shadow-gray-700 w-full rounded-3xl bg-cover bg-center bg-[url(/src/assets/farhanp.jpg)]"
+      className="h-full relative p-6 md:p-10 shadow-md shadow-gray-700 w-full rounded-3xl bg-cover bg-center bg-[url(/images/farhanp.jpg)]"
     >
       {/* Gradient Overlay */}
       <div className="absolute inset-0 bg-gradient-to-r from-black from-10% to-transparent rounded-3xl z-10"></div>

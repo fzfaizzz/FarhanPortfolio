@@ -19,7 +19,7 @@ function Worq() {
             loop
             autoPlay
             muted
-            src="/src/assets/stronode2.webm"
+            src="/src/images/stronode2.webm"
             className="absolute top-[0%] left-1/2 transform -translate-x-1/2  h-[40%] "
           ></video>
         </div>

@@ -25,8 +25,8 @@ function Page4() {
 
           {/* Right Column: Videos */}
           <div className="flex items-center justify-center relative mt-8 md:mt-0">
-            <video className="w-3/4 md:w-2/3 lg:w-1/2 rounded-full z-20" autoPlay loop muted src="/src/assets/earth.MP4"></video>
-            <video className="absolute top-10 md:top-20 right-5 md:right-10 w-1/2 md:w-1/3 rounded-full opacity-80" autoPlay loop muted src="/src/assets/moon.MP4"></video>
+            <video className="w-3/4 md:w-2/3 lg:w-1/2 rounded-full z-20" autoPlay loop muted src="/images/earth.MP4"></video>
+            <video className="absolute top-10 md:top-20 right-5 md:right-10 w-1/2 md:w-1/3 rounded-full opacity-80" autoPlay loop muted src="/images/moon.MP4"></video>
           </div>
         </div>
       </div>

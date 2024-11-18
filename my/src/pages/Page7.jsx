@@ -40,7 +40,7 @@ function Page7() {
                 loop
                 autoPlay
                 muted
-                src="/src/assets/clock.MP4"
+                src="/images/clock.MP4"
                 className="h-40 w-40 md:h-96 md:w-96 absolute -mt-20 md:-mt-36 -z-10"
               ></video>
             </div>
